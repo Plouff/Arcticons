@@ -1,6 +1,20 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        debug {
+            storeFile file('D:\\Synchro NAS\\Documents\\Developpements\\Android\\SigningKey\\nzKey.jks')
+            storePassword 'n15Kitiy'
+            keyAlias 'nzarcticonkey'
+            keyPassword 'n15Kitiy'
+        }
+        'light-release' {
+            storeFile file('D:\\Synchro NAS\\Documents\\Developpements\\Android\\SigningKey\\nzKey.jks')
+            storePassword 'n15Kitiy'
+            keyAlias 'nzarcticonkey'
+            keyPassword 'n15Kitiy'
+        }
+    }
     compileSdkVersion 30
 
     defaultConfig {
@@ -9,6 +23,7 @@ android {
         targetSdkVersion 30
         versionCode 66
         versionName '2.1.0'
+        signingConfig signingConfigs.'light-release'
     }
 
     buildTypes {
