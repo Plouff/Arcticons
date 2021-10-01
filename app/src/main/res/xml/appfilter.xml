@@ -115,6 +115,10 @@
 
     <!-- Leboncoin -->
     <item component="ComponentInfo{fr.leboncoin/fr.leboncoin.splashscreen.ui.activities.SplashScreenActivity}" drawable="leboncoin"/>
+    <item component="ComponentInfo{fr.leboncoin/fr.leboncoin.features.splashscreen.ui.activities.SplashScreenActivity}" drawable="leboncoin"/>
+
+    <!-- Leclerc -->
+    <item component="ComponentInfo{com.infomil.leclercdrive/crc6497a3b01b818291ec.MainActivity}" drawable="leclerc"/>
 
     <!-- LinkedIn -->
     <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin"/>
@@ -238,47 +242,17 @@
     <!-- AntiCovid -->
     <item component="ComponentInfo{fr.gouv.android.stopcovid/com.lunabeestudio.stopcovid.activity.SplashScreenActivity}" drawable="viruswar"/>
 
-    <!-- Boursorama Banque -->
-    <item component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.splash.SplashActivity}" drawable="bitcoin"/>
-
     <!-- Capture d'écran Facile -->
     <item component="ComponentInfo{com.icecoldapps.screenshoteasy/com.icecoldapps.screenshoteasy.viewStart}" drawable="spynetcamera"/>
-
-    <!-- Cirkwi -->
-    <item component="ComponentInfo{com.cirkwi.pit/com.cirkwi.pit.MainActivity}" drawable="styxbrowser"/>
-
-    <!-- DIGI Clock Plus Widget -->
-    <item component="ComponentInfo{sk.michalec.DigiClockWidgetPro/sk.michalec.DigiClockWidgetPro.ConfigActivity}" drawable="clock"/>
-
-    <!-- DS audio -->
-    <item component="ComponentInfo{com.synology.DSaudio/com.synology.dsaudio.ui.splash.SplashActivity}" drawable="podverse"/>
-
-    <!-- DS cloud -->
-    <item component="ComponentInfo{com.synology.dscloud/com.synology.dscloud.activities.SplashActivity}" drawable="owncloud"/>
-
-    <!-- DS file -->
-    <item component="ComponentInfo{com.synology.DSfile/com.synology.DSfile.Splash}" drawable="folderhome"/>
 
     <!-- DS get -->
     <item component="ComponentInfo{com.synology.DSdownload/com.synology.DSdownload.activities.SplashActivity}" drawable="downloads"/>
 
-    <!-- Freelancer -->
-    <item component="ComponentInfo{com.freelancer.android.messenger/com.freelancer.main.MainActivity}" drawable="speedmeter"/>
-
-    <!-- GPX Viewer PRO -->
-    <item component="ComponentInfo{com.vecturagames.android.app.gpxviewer.pro/com.vecturagames.android.app.gpxviewer.activity.SplashActivity}" drawable="locationprivacy"/>
-
-    <!-- HOP! -->
-    <item component="ComponentInfo{com.amadeus.merci.a5/com.amadeus.merci.app.ui.LaunchActivity}" drawable="shadowsocks"/>
-
     <!-- Just Eat -->
     <item component="ComponentInfo{com.justeat.app.fr/com.takeaway.android.activity.Splash}" drawable="forkclient"/>
 
-    <!-- Klassly -->
-    <item component="ComponentInfo{co.roomapp.klassroom/co.roomapp.klassroom.activity.KROnboardingActivity}" drawable="dinomail"/>
-
     <!-- Mappy -->
-    <item component="ComponentInfo{com.mappy.app/com.mappy.app.CoreActivity}" drawable="yaauto"/>
+    <item component="ComponentInfo{com.mappy.app/com.mappy.app.CoreActivity}" drawable="mappy"/>
 
     <!-- My Maps -->
     <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="mapsgo"/>
@@ -310,58 +284,86 @@
     <!-- Windguru Lite -->
     <item component="ComponentInfo{cz.windguru.wgapp/cz.windguru.wgapp.MainActivity}" drawable="brevent"/>
 
-    <!-- Dictionnaire Larousse -->
-    <item component="ComponentInfo{fr.larousse.dico.francais/fr.larousse.dico.francais.MainActivity}" drawable="colordict"/>
-    <!-- WordReference -->
-    <item component="ComponentInfo{com.wordreference/com.wordreference.MainApp}" drawable="colordict"/>
-
     <!-- Zenbus -->
     <item component="ComponentInfo{com.byjoul.code.zenbus.android/com.byjoul.code.zenbus.android.ZenbusPublicActivity}" drawable="transport"/>
 
+
+    <!-- My icons -->
+    <!-- My icons -->
+    <!-- My icons -->
+
+    <!-- Augmented 7 Wonders -->
+    <item component="ComponentInfo{com.flochass.sevenwonders/com.unity3d.player.UnityPlayerActivity}" drawable="augmented7wonders"/>
+
+    <!-- Boursorama Banque -->
+    <item component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.splash.SplashActivity}" drawable="bourso"/>
+
+    <!-- Chess -->
+    <item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="chess"/>
+
+    <!-- Cirkwi -->
+    <item component="ComponentInfo{com.cirkwi.pit/com.cirkwi.pit.MainActivity}" drawable="cirkwi"/>
+
+    <!-- De débutant au club -->
+    <item component="ComponentInfo{com.chessking.android.learn.beginnerstoclub/com.convekta.android.peshka.ui.LoginActivity}" drawable="chessbegtoclub"/>
+
+    <!-- Decathlon -->
+    <item component="ComponentInfo{com.decathlon.app/com.decathlon.app.splash.ActivitySplash}" drawable="decathlon"/>
+
+    <!-- DIGI Clock Plus Widget -->
+    <item component="ComponentInfo{sk.michalec.DigiClockWidgetPro/sk.michalec.DigiClockWidgetPro.ConfigActivity}" drawable="digiclockplus"/>
+
+    <!-- DS audio -->
+    <item component="ComponentInfo{com.synology.DSaudio/com.synology.dsaudio.ui.splash.SplashActivity}" drawable="dsaudio"/>
+
+    <!-- DS cloud -->
+    <item component="ComponentInfo{com.synology.dscloud/com.synology.dscloud.activities.SplashActivity}" drawable="dscloud"/>
+
+    <!-- DS file -->
+    <item component="ComponentInfo{com.synology.DSfile/com.synology.DSfile.Splash}" drawable="dsfile"/>
+
+    <!-- Freelancer -->
+    <item component="ComponentInfo{com.freelancer.android.messenger/com.freelancer.main.MainActivity}" drawable="freelancer"/>
+
+    <!-- GPX Viewer PRO -->
+    <item component="ComponentInfo{com.vecturagames.android.app.gpxviewer.pro/com.vecturagames.android.app.gpxviewer.activity.SplashActivity}" drawable="gpxviewerpro"/>
+
+    <!-- HOP! -->
+    <item component="ComponentInfo{com.amadeus.merci.a5/com.amadeus.merci.app.ui.LaunchActivity}" drawable="hop"/>
+
+    <!-- Klassly -->
+    <item component="ComponentInfo{co.roomapp.klassroom/co.roomapp.klassroom.activity.KROnboardingActivity}" drawable="klassly"/>
+
+    <!-- La Poste Mobile -->
+    <item component="ComponentInfo{fr.lapostemobile.appliclient/fr.lapostemobile.appliclient.activity.SplashscreenActivity}" drawable="lapostemobile"/>
+
+    <!-- Larousse -->
+    <item component="ComponentInfo{fr.larousse.dico.francais/fr.larousse.dico.francais.MainActivity}" drawable="larousse"/>
+
+    <!-- Livi -->
+    <item component="ComponentInfo{health.livi.android/se.kry.android.kotlin.launch.LauncherActivity}" drawable="livi"/>
+
+    <!-- MonPetitProno -->
+    <item component="ComponentInfo{com.monpetitprono.monpetitpronoapp/com.monpetitprono.MainActivity}" drawable="monpetitprono"/>
+
+    <!-- SportEasy -->
+    <item component="ComponentInfo{com.sporteasy.android/com.sporteasy.android.walkthrough.SplashActivity}" drawable="sporteasy"/>
+
+    <!-- ViaMichelin -->
+    <item component="ComponentInfo{com.viamichelin.android.viamichelinmobile/com.viamichelin.android.viamichelinmobile.MainActivity}" drawable="viamichelin"/>
+
+    <!-- WordReference -->
+    <item component="ComponentInfo{com.wordreference/com.wordreference.MainApp}" drawable="wordreference"/>
+
 <!-- TODO TODO TODO TODO
-
-<!- Augmented 7 Wonders ->
-<item component="ComponentInfo{com.flochass.sevenwonders/com.unity3d.player.UnityPlayerActivity}" drawable="augmented7wonders"/>
-
-<!- De débutant au club ->
-<item component="ComponentInfo{com.chessking.android.learn.beginnerstoclub/com.convekta.android.peshka.ui.LoginActivity}" drawable="dedbutantauclub"/>
-<!- Decathlon ->
-<item component="ComponentInfo{com.decathlon.app/com.decathlon.app.splash.ActivitySplash}" drawable="decathlon"/>
-
-
-<!- Drive&ChezMoi ->
-<item component="ComponentInfo{com.infomil.leclercdrive/crc6497a3b01b818291ec.MainActivity}" drawable="drivechezmoi"/>
-
-<!- Échecs ->
-<item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="checs"/>
-
-<!- Livi ->
-<item component="ComponentInfo{health.livi.android/se.kry.android.kotlin.launch.LauncherActivity}" drawable="livi"/>
-
-<!- Mon Espace ->
-<item component="ComponentInfo{fr.lapostemobile.appliclient/fr.lapostemobile.appliclient.activity.SplashscreenActivity}" drawable="monespace"/>
-<!- MonPetitProno ->
-<item component="ComponentInfo{com.monpetitprono.monpetitpronoapp/com.monpetitprono.MainActivity}" drawable="monpetitprono"/>
-
 <!- Omega Launcher ->
 <item component="ComponentInfo{com.saggitt.omega/com.saggitt.omega.OmegaLauncher}" drawable="omegalauncher"/>
 
 <!- Samsara ->
 <item component="ComponentInfo{com.marker.samsara/com.google.firebase.MessagingUnityPlayerActivity}" drawable="samsara"/>
 
-<!- SportEasy ->
-<item component="ComponentInfo{com.sporteasy.android/com.sporteasy.android.walkthrough.SplashActivity}" drawable="sporteasy"/>
-
-<!- ViaMichelin ->
-<item component="ComponentInfo{com.viamichelin.android.viamichelinmobile/com.viamichelin.android.viamichelinmobile.MainActivity}" drawable="viamichelin"/>
-
-
-
-
 <!- World War II ->
 <item component="ComponentInfo{com.joynow.strategy.ww2/com.joynow.strategy.ww2.MainActivity}" drawable="worldwarii"/>
-
-
 -->
     
 </resources>

@@ -61,8 +61,10 @@
 	<item drawable="googlesheets" />
 	<item drawable="homeassistant" />
 	<item drawable="k9mail" />
+	<item drawable="lapostemobile" />
 	<item drawable="lawnchair" />
 	<item drawable="leboncoin" />
+	<item drawable="leclerc" />
 	<item drawable="linkedin" />
 	<item drawable="lydia" />
 	<item drawable="meetup" />
@@ -134,5 +136,26 @@
 	<item drawable="brevent" />
 	<item drawable="colordict" />
 
+	<item drawable="augmented7wonders" />
+	<item drawable="bourso" />
+	<item drawable="chess" />
+	<item drawable="cirkwi" />
+	<item drawable="chessbegtoclub" />
+	<item drawable="decathlon" />
+	<item drawable="digiclockplus" />
+	<item drawable="dsaudio" />
+	<item drawable="dscloud" />
+	<item drawable="dsfile" />
+	<item drawable="freelancer" />
+	<item drawable="gpxviewerpro" />
+	<item drawable="hop" />
+	<item drawable="klassly" />
+	<item drawable="livi" />
+	<item drawable="larousse" />
+	<item drawable="mappy" />
+	<item drawable="monpetitprono" />
+	<item drawable="sporteasy" />
+	<item drawable="viamichelin" />
+	<item drawable="wordreference" />
 
 </resources>
