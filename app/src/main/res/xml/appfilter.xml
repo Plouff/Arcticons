@@ -199,9 +199,6 @@
     <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
 
-    <!-- Tan -->
-    <item component="ComponentInfo{com.semitan.tan/com.semitan.tan.MainActivity}" drawable="tan"/>
-
     <!-- Telegram FOSS -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram"/>
 
@@ -239,54 +236,17 @@
     <!-- The following applications dont use their own icon -->
     <!-- The following applications dont use their own icon -->
 
-    <!-- AntiCovid -->
-    <item component="ComponentInfo{fr.gouv.android.stopcovid/com.lunabeestudio.stopcovid.activity.SplashScreenActivity}" drawable="viruswar"/>
-
     <!-- Capture d'écran Facile -->
     <item component="ComponentInfo{com.icecoldapps.screenshoteasy/com.icecoldapps.screenshoteasy.viewStart}" drawable="spynetcamera"/>
 
-    <!-- DS get -->
-    <item component="ComponentInfo{com.synology.DSdownload/com.synology.DSdownload.activities.SplashActivity}" drawable="downloads"/>
-
-    <!-- Just Eat -->
-    <item component="ComponentInfo{com.justeat.app.fr/com.takeaway.android.activity.Splash}" drawable="forkclient"/>
-
-    <!-- Mappy -->
-    <item component="ComponentInfo{com.mappy.app/com.mappy.app.CoreActivity}" drawable="mappy"/>
-
-    <!-- My Maps -->
-    <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="mapsgo"/>
-
-    <!-- My Phone -->
-    <item component="ComponentInfo{com.hmdglobal.support/com.hmdglobal.support.ui.EntryActivity}" drawable="finder"/>
-
     <!-- Notes -->
     <item component="ComponentInfo{com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity}" drawable="notificationnotes"/>
-
-    <!-- OfficeSuite -->
-    <item component="ComponentInfo{com.mobisystems.office/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="libreofficeviewer"/>
-
-    <!-- Qwant -->
-    <item component="ComponentInfo{com.qwant.liberty/org.mozilla.reference.browser.BrowserActivity}" drawable="letterq"/>
-
-    <!-- radio.fr -->
-    <item component="ComponentInfo{de.radio.android.prime/de.radio.android.AppActivity}" drawable="radio"/>
 
     <!-- Station radio FM -->
     <item component="ComponentInfo{com.hmdglobal.app.fmradio/com.hmdglobal.app.fmradio.FMRadio}" drawable="radiofm"/>
 
     <!-- Touch Lock Lite -->
     <item component="ComponentInfo{com.kidscrape.touchlock.lite/com.kidscrape.touchlock.lite.MainActivity}" drawable="mapassist"/>
-
-    <!-- Tricount -->
-    <item component="ComponentInfo{com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity}" drawable="simpleaccounting"/>
-
-    <!-- Windguru Lite -->
-    <item component="ComponentInfo{cz.windguru.wgapp/cz.windguru.wgapp.MainActivity}" drawable="brevent"/>
-
-    <!-- Zenbus -->
-    <item component="ComponentInfo{com.byjoul.code.zenbus.android/com.byjoul.code.zenbus.android.ZenbusPublicActivity}" drawable="transport"/>
-
 
     <!-- My icons -->
     <!-- My icons -->
@@ -322,6 +282,9 @@
     <!-- DS file -->
     <item component="ComponentInfo{com.synology.DSfile/com.synology.DSfile.Splash}" drawable="dsfile"/>
 
+    <!-- DS get -->
+    <item component="ComponentInfo{com.synology.DSdownload/com.synology.DSdownload.activities.SplashActivity}" drawable="dsget"/>
+
     <!-- Freelancer -->
     <item component="ComponentInfo{com.freelancer.android.messenger/com.freelancer.main.MainActivity}" drawable="freelancer"/>
 
@@ -330,6 +293,9 @@
 
     <!-- HOP! -->
     <item component="ComponentInfo{com.amadeus.merci.a5/com.amadeus.merci.app.ui.LaunchActivity}" drawable="hop"/>
+
+    <!-- Just Eat -->
+    <item component="ComponentInfo{com.justeat.app.fr/com.takeaway.android.activity.Splash}" drawable="justeat"/>
 
     <!-- Klassly -->
     <item component="ComponentInfo{co.roomapp.klassroom/co.roomapp.klassroom.activity.KROnboardingActivity}" drawable="klassly"/>
@@ -343,17 +309,50 @@
     <!-- Livi -->
     <item component="ComponentInfo{health.livi.android/se.kry.android.kotlin.launch.LauncherActivity}" drawable="livi"/>
 
+    <!-- Mappy -->
+    <item component="ComponentInfo{com.mappy.app/com.mappy.app.CoreActivity}" drawable="mappy"/>
+
     <!-- MonPetitProno -->
     <item component="ComponentInfo{com.monpetitprono.monpetitpronoapp/com.monpetitprono.MainActivity}" drawable="monpetitprono"/>
+
+    <!-- My Maps -->
+    <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="mymaps"/>
+
+    <!-- My Phone -->
+    <item component="ComponentInfo{com.hmdglobal.support/com.hmdglobal.support.ui.EntryActivity}" drawable="myphone"/>
+
+    <!-- OfficeSuite -->
+    <item component="ComponentInfo{com.mobisystems.office/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="officesuite"/>
+
+    <!-- Qwant -->
+    <item component="ComponentInfo{com.qwant.liberty/org.mozilla.reference.browser.BrowserActivity}" drawable="qwant"/>
+
+    <!-- radio.fr -->
+    <item component="ComponentInfo{de.radio.android.prime/de.radio.android.AppActivity}" drawable="radio_fr"/>
 
     <!-- SportEasy -->
     <item component="ComponentInfo{com.sporteasy.android/com.sporteasy.android.walkthrough.SplashActivity}" drawable="sporteasy"/>
 
+    <!-- Tan -->
+    <item component="ComponentInfo{com.semitan.tan/com.semitan.tan.MainActivity}" drawable="tannantes"/>
+
+    <!-- AntiCovid -->
+    <item component="ComponentInfo{fr.gouv.android.stopcovid/com.lunabeestudio.stopcovid.activity.SplashScreenActivity}" drawable="tousanticov"/>
+
+    <!-- Tricount -->
+    <item component="ComponentInfo{com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity}" drawable="tricount"/>
+
     <!-- ViaMichelin -->
     <item component="ComponentInfo{com.viamichelin.android.viamichelinmobile/com.viamichelin.android.viamichelinmobile.MainActivity}" drawable="viamichelin"/>
 
+    <!-- Windguru Lite -->
+    <item component="ComponentInfo{cz.windguru.wgapp/cz.windguru.wgapp.MainActivity}" drawable="windguru"/>
+
     <!-- WordReference -->
     <item component="ComponentInfo{com.wordreference/com.wordreference.MainApp}" drawable="wordreference"/>
+
+    <!-- Zenbus -->
+    <item component="ComponentInfo{com.byjoul.code.zenbus.android/com.byjoul.code.zenbus.android.ZenbusPublicActivity}" drawable="zenbus"/>
 
 <!-- TODO TODO TODO TODO
 <!- Omega Launcher ->

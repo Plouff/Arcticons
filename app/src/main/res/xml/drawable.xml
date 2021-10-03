@@ -145,17 +145,28 @@
 	<item drawable="digiclockplus" />
 	<item drawable="dsaudio" />
 	<item drawable="dscloud" />
+	<item drawable="dsget" />
 	<item drawable="dsfile" />
 	<item drawable="freelancer" />
 	<item drawable="gpxviewerpro" />
 	<item drawable="hop" />
+	<item drawable="justeat" />
 	<item drawable="klassly" />
 	<item drawable="livi" />
 	<item drawable="larousse" />
 	<item drawable="mappy" />
 	<item drawable="monpetitprono" />
+	<item drawable="mymaps" />
+	<item drawable="myphone" />
+	<item drawable="officesuite" />
+	<item drawable="qwant" />
 	<item drawable="sporteasy" />
+	<item drawable="tannantes" />
+	<item drawable="tousanticov" />
+	<item drawable="tricount" />
 	<item drawable="viamichelin" />
 	<item drawable="wordreference" />
+	<item drawable="windguru" />
+	<item drawable="zenbus" />
 
 </resources>
