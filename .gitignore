@@ -25,3 +25,7 @@ local.properties
 gradlew
 gradlew.bat
 .DS_Store
+
+app/dark/
+app/light/
+icons/appfilter.BAK
