@@ -242,6 +242,9 @@
     <!-- Notes -->
     <item component="ComponentInfo{com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity}" drawable="notificationnotes"/>
 
+    <!-- OpenSudoku -->
+    <item component="ComponentInfo{org.moire.opensudoku/org.moire.opensudoku.gui.TitleScreenActivity}" drawable="sudokuopen"/>
+
     <!-- Station radio FM -->
     <item component="ComponentInfo{com.hmdglobal.app.fmradio/com.hmdglobal.app.fmradio.FMRadio}" drawable="radiofm"/>
 
