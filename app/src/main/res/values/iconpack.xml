@@ -55,11 +55,13 @@
 		 <item>googlekeep</item>
 		 <item>googlemail</item>
 		 <item>googlemaps</item>
+		 <item>googlemeet</item>
 		 <item>googlenewsstand</item>
 		 <item>googleplay</item>
 		 <item>googleplaystore</item>
 		 <item>googlesheets</item>
 		 <item>homeassistant</item>
+		 <item>jitsimeet</item>
 		 <item>k9mail</item>
 		 <item>lapostemobile</item>
 		 <item>lawnchair</item>
@@ -73,6 +75,7 @@
 		 <item>messenger</item>
 		 <item>meteofrance</item>
 		 <item>microsoftoutlook</item>
+		 <item>microsoftteams</item>
 		 <item>netflix</item>
 		 <item>netguard</item>
 		 <item>newpipe</item>
@@ -137,6 +140,8 @@
 		 <item>brevent</item>
 		 <item>colordict</item>
 
+		 <!-- Mine -->
+		 <item>andropenoffice</item>
 		 <item>augmented7wonders</item>
 		 <item>bourso</item>
 		 <item>chess</item>
@@ -148,25 +153,34 @@
 		 <item>dscloud</item>
 		 <item>dsget</item>
 		 <item>dsfile</item>
+		 <item>dsvideo</item>
 		 <item>freelancer</item>
 		 <item>gpxviewerpro</item>
 		 <item>hop</item>
+		 <item>getaround</item>
 		 <item>justeat</item>
 		 <item>klassly</item>
 		 <item>livi</item>
 		 <item>larousse</item>
 		 <item>mappy</item>
 		 <item>monpetitprono</item>
+		 <item>motionsource</item>
 		 <item>mymaps</item>
 		 <item>myphone</item>
 		 <item>officesuite</item>
+		 <item>paybyphone</item>
 		 <item>qwant</item>
+		 <item>redsfr</item>
+		 <item>rlsideswipe</item>
+		 <item>sncfconnect</item>
 		 <item>sporteasy</item>
 		 <item>tannantes</item>
 		 <item>tousanticov</item>
 		 <item>tricount</item>
 		 <item>viamichelin</item>
+		 <item>vivino</item>
 		 <item>wordreference</item>
 		 <item>windguru</item>
-		 <item>zenbus</item>    </string-array>
+		 <item>zenbus</item>
+	 </string-array>
 </resources>

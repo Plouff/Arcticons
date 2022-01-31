@@ -55,11 +55,13 @@
 	<item drawable="googlekeep" />
 	<item drawable="googlemail" />
 	<item drawable="googlemaps" />
+	<item drawable="googlemeet" />
 	<item drawable="googlenewsstand" />
 	<item drawable="googleplay" />
 	<item drawable="googleplaystore" />
 	<item drawable="googlesheets" />
 	<item drawable="homeassistant" />
+	<item drawable="jitsimeet" />
 	<item drawable="k9mail" />
 	<item drawable="lapostemobile" />
 	<item drawable="lawnchair" />
@@ -73,6 +75,7 @@
 	<item drawable="messenger" />
 	<item drawable="meteofrance" />
 	<item drawable="microsoftoutlook" />
+	<item drawable="microsoftteams" />
 	<item drawable="netflix" />
 	<item drawable="netguard" />
 	<item drawable="newpipe" />
@@ -137,6 +140,8 @@
 	<item drawable="brevent" />
 	<item drawable="colordict" />
 
+	<!-- Mine -->
+	<item drawable="andropenoffice" />
 	<item drawable="augmented7wonders" />
 	<item drawable="bourso" />
 	<item drawable="chess" />
@@ -148,7 +153,9 @@
 	<item drawable="dscloud" />
 	<item drawable="dsget" />
 	<item drawable="dsfile" />
+	<item drawable="dsvideo" />
 	<item drawable="freelancer" />
+	<item drawable="getaround" />
 	<item drawable="gpxviewerpro" />
 	<item drawable="hop" />
 	<item drawable="justeat" />
@@ -157,15 +164,21 @@
 	<item drawable="larousse" />
 	<item drawable="mappy" />
 	<item drawable="monpetitprono" />
+	<item drawable="motionsource" />
 	<item drawable="mymaps" />
 	<item drawable="myphone" />
 	<item drawable="officesuite" />
+	<item drawable="paybyphone" />
 	<item drawable="qwant" />
+	<item drawable="redsfr" />
+	<item drawable="rlsideswipe" />
+	<item drawable="sncfconnect" />
 	<item drawable="sporteasy" />
 	<item drawable="tannantes" />
 	<item drawable="tousanticov" />
 	<item drawable="tricount" />
 	<item drawable="viamichelin" />
+	<item drawable="vivino" />
 	<item drawable="wordreference" />
 	<item drawable="windguru" />
 	<item drawable="zenbus" />

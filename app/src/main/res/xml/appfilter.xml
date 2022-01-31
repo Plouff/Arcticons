@@ -1,4 +1,5 @@
 <resources>
+
     <!-- AntennaPod -->
     <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod" />
 
@@ -92,6 +93,9 @@
     <!-- Google Maps -->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="googlemaps"/>
 
+    <!-- Google Meet -->
+    <item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="googlemeet"/>
+
     <!-- Google Messages -->
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages"/>
 
@@ -106,6 +110,9 @@
 
     <!-- Google Sheets -->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="googlesheets"/>
+
+    <!-- Jitsi Meet -->
+    <item component="ComponentInfo{org.jitsi.meet/org.jitsi.meet.MainActivity}" drawable="jitsimeet"/>
 
     <!-- K-9 Mail -->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" drawable="k9mail"/>
@@ -125,9 +132,16 @@
 
     <!-- Lydia -->
     <item component="ComponentInfo{com.lydia/com.lydia.feature.splash.SplashActivity}" drawable="lydia"/>
+    <item component="ComponentInfo{com.lydia/com.lydia.feature.splash.view.SplashActivity}" drawable="lydia"/>
 
     <!-- Lite -->
     <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger"/>
+
+    <!-- Microsoft Outlook -->
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoftoutlook"/>
+
+    <!-- Microsoft Teams -->
+    <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="microsoftteams"/>
 
     <!-- Meetup -->
     <item component="ComponentInfo{com.meetup/com.meetup.feature.legacy.activity.BootstrapActivity}" drawable="meetup"/>
@@ -153,14 +167,12 @@
     <!-- OUI.sncf -->
     <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.vsct.vsc.mobile.horaireetresa.android.activity.SplashActivity}" drawable="ouisncf"/>
 
-    <!-- Outlook -->
-    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoftoutlook"/>
-
     <!-- Pdf Viewer Plus -->
     <item component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.LauncherAlias}" drawable="pdfviewerplus"/>
 
     <!-- Petit BamBou -->
     <item component="ComponentInfo{com.petitbambou/com.petitbambou.frontend.launcher.ActivityLauncherCustomizable}" drawable="petitbambou"/>
+    <item component="ComponentInfo{com.petitbambou/com.petitbambou.frontendnav.ActivityHomeSpace}" drawable="petitbambou"/>
 
     <!-- Phone -->
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone"/>
@@ -255,6 +267,9 @@
     <!-- My icons -->
     <!-- My icons -->
 
+    <!-- AndrOpen Office -->
+    <item component="ComponentInfo{com.andropenoffice/aoo.android.TopActivity}" drawable="andropenoffice"/>
+
     <!-- Augmented 7 Wonders -->
     <item component="ComponentInfo{com.flochass.sevenwonders/com.unity3d.player.UnityPlayerActivity}" drawable="augmented7wonders"/>
 
@@ -288,8 +303,14 @@
     <!-- DS get -->
     <item component="ComponentInfo{com.synology.DSdownload/com.synology.DSdownload.activities.SplashActivity}" drawable="dsget"/>
 
+    <!-- DS video -->
+    <item component="ComponentInfo{com.synology.dsvideo/com.synology.dsvideo.SplashActivity}" drawable="dsvideo"/>
+
     <!-- Freelancer -->
     <item component="ComponentInfo{com.freelancer.android.messenger/com.freelancer.main.MainActivity}" drawable="freelancer"/>
+
+    <!-- Getaround -->
+    <item component="ComponentInfo{com.c4mprod.voiturelib/com.drivy.android.activity.MainActivity}" drawable="getaround"/>
 
     <!-- GPX Viewer PRO -->
     <item component="ComponentInfo{com.vecturagames.android.app.gpxviewer.pro/com.vecturagames.android.app.gpxviewer.activity.SplashActivity}" drawable="gpxviewerpro"/>
@@ -318,6 +339,9 @@
     <!-- MonPetitProno -->
     <item component="ComponentInfo{com.monpetitprono.monpetitpronoapp/com.monpetitprono.MainActivity}" drawable="monpetitprono"/>
 
+    <!-- MotionSource -->
+    <item component="ComponentInfo{net.sshnuke.dsu.MotionSource/md5bb63ec1df4fc38c827aa83e1a59992c7.MainActivity}" drawable="motionsource"/>
+
     <!-- My Maps -->
     <item component="ComponentInfo{com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity}" drawable="mymaps"/>
 
@@ -327,11 +351,23 @@
     <!-- OfficeSuite -->
     <item component="ComponentInfo{com.mobisystems.office/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="officesuite"/>
 
+    <!-- PayByPhone -->
+    <item component="ComponentInfo{com.paybyphone/com.paybyphone.paybyphoneparking.app.ui.activities.SplashActivity}" drawable="paybyphone"/>
+
     <!-- Qwant -->
     <item component="ComponentInfo{com.qwant.liberty/org.mozilla.reference.browser.BrowserActivity}" drawable="qwant"/>
 
+    <!-- RED by SFR -->
+    <item component="ComponentInfo{com.sfr.android.redmoncompte/com.sfr.android.redmoncompte.MonCompteMain}" drawable="redsfr"/>
+
     <!-- radio.fr -->
     <item component="ComponentInfo{de.radio.android.prime/de.radio.android.AppActivity}" drawable="radio_fr"/>
+
+    <!-- RL Sideswipe -->
+    <item component="ComponentInfo{com.Psyonix.RL2D/com.epicgames.ue4.SplashActivity}" drawable="rlsideswipe"/>
+
+    <!-- SNCF Connect -->
+    <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.evoyageurs.invictus.flutter.MainActivity}" drawable="sncfconnect"/>
 
     <!-- SportEasy -->
     <item component="ComponentInfo{com.sporteasy.android/com.sporteasy.android.walkthrough.SplashActivity}" drawable="sporteasy"/>
@@ -348,6 +384,9 @@
     <!-- ViaMichelin -->
     <item component="ComponentInfo{com.viamichelin.android.viamichelinmobile/com.viamichelin.android.viamichelinmobile.MainActivity}" drawable="viamichelin"/>
 
+    <!-- Vivino -->
+    <item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="vivino"/>
+
     <!-- Windguru Lite -->
     <item component="ComponentInfo{cz.windguru.wgapp/cz.windguru.wgapp.MainActivity}" drawable="windguru"/>
 
@@ -360,9 +399,6 @@
 <!-- TODO TODO TODO TODO
 <!- Omega Launcher ->
 <item component="ComponentInfo{com.saggitt.omega/com.saggitt.omega.OmegaLauncher}" drawable="omegalauncher"/>
-
-<!- Samsara ->
-<item component="ComponentInfo{com.marker.samsara/com.google.firebase.MessagingUnityPlayerActivity}" drawable="samsara"/>
 
 <!- World War II ->
 <item component="ComponentInfo{com.joynow.strategy.ww2/com.joynow.strategy.ww2.MainActivity}" drawable="worldwarii"/>
