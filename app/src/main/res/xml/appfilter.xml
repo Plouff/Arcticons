@@ -244,6 +244,9 @@
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
 
+    <!-- Zoom -->
+    <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
+
     <!-- The following applications dont use their own icon -->
     <!-- The following applications dont use their own icon -->
     <!-- The following applications dont use their own icon -->
@@ -353,6 +356,9 @@
 
     <!-- PayByPhone -->
     <item component="ComponentInfo{com.paybyphone/com.paybyphone.paybyphoneparking.app.ui.activities.SplashActivity}" drawable="paybyphone"/>
+
+    <!-- Pole Emploi Mon Espace -->
+    <item component="ComponentInfo{com.poleemploi.poleemploietmoi/poleemploi.poleemploietmoi.droid.activities.SplashActivity}" drawable="poleemploi"/>
 
     <!-- Qwant -->
     <item component="ComponentInfo{com.qwant.liberty/org.mozilla.reference.browser.BrowserActivity}" drawable="qwant"/>

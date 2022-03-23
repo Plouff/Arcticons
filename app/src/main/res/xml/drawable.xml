@@ -63,10 +63,8 @@
 	<item drawable="homeassistant" />
 	<item drawable="jitsimeet" />
 	<item drawable="k9mail" />
-	<item drawable="lapostemobile" />
 	<item drawable="lawnchair" />
 	<item drawable="leboncoin" />
-	<item drawable="leclerc" />
 	<item drawable="linkedin" />
 	<item drawable="lydia" />
 	<item drawable="meetup" />
@@ -96,7 +94,6 @@
 	<item drawable="skype" />
 	<item drawable="sncf" />
 	<item drawable="steam" />
-	<item drawable="tan" />
 	<item drawable="telegram" />
 	<item drawable="trello" />
 	<item drawable="turtl" />
@@ -110,35 +107,17 @@
 	<item drawable="wikipedia" />
 	<item drawable="xeonjia" />
 	<item drawable="youtube" />
+	<item drawable="zoom" />
 
 	<!-- Secondary usage -->
-	<item drawable="viruswar" />
-	<item drawable="yaauto" />
 	<item drawable="foldergoogle" />
-	<item drawable="bitcoin" />
-	<item drawable="podverse" />
 	<item drawable="spynetcamera" />
-	<item drawable="styxbrowser" />
-	<item drawable="owncloud" />
 	<item drawable="folderhome" />
 	<item drawable="downloads" />
-	<item drawable="speedmeter" />
-	<item drawable="locationprivacy" />
-	<item drawable="forkclient" />
-	<item drawable="shadowsocks" />
-	<item drawable="dinomail" />
-	<item drawable="mapsgo" />
 	<item drawable="mapassist" />
-	<item drawable="transport" />
-	<item drawable="finder" />
 	<item drawable="notificationnotes" />
-	<item drawable="libreofficeviewer" />
-	<item drawable="radio" />
 	<item drawable="radiofm" />
-	<item drawable="simpleaccounting" />
 	<item drawable="sudokuopen" />
-	<item drawable="brevent" />
-	<item drawable="colordict" />
 
 	<!-- Mine -->
 	<item drawable="andropenoffice" />
@@ -160,8 +139,10 @@
 	<item drawable="hop" />
 	<item drawable="justeat" />
 	<item drawable="klassly" />
-	<item drawable="livi" />
 	<item drawable="larousse" />
+	<item drawable="lapostemobile" />
+	<item drawable="leclerc" />
+	<item drawable="livi" />
 	<item drawable="mappy" />
 	<item drawable="monpetitprono" />
 	<item drawable="motionsource" />
@@ -169,6 +150,7 @@
 	<item drawable="myphone" />
 	<item drawable="officesuite" />
 	<item drawable="paybyphone" />
+	<item drawable="poleemploi" />
 	<item drawable="qwant" />
 	<item drawable="redsfr" />
 	<item drawable="rlsideswipe" />

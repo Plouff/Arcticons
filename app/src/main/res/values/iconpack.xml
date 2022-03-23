@@ -63,10 +63,8 @@
 		 <item>homeassistant</item>
 		 <item>jitsimeet</item>
 		 <item>k9mail</item>
-		 <item>lapostemobile</item>
 		 <item>lawnchair</item>
 		 <item>leboncoin</item>
-		 <item>leclerc</item>
 		 <item>linkedin</item>
 		 <item>lydia</item>
 		 <item>meetup</item>
@@ -96,7 +94,6 @@
 		 <item>skype</item>
 		 <item>sncf</item>
 		 <item>steam</item>
-		 <item>tan</item>
 		 <item>telegram</item>
 		 <item>trello</item>
 		 <item>turtl</item>
@@ -110,35 +107,17 @@
 		 <item>wikipedia</item>
 		 <item>xeonjia</item>
 		 <item>youtube</item>
+		 <item>zoom</item>
 
 		 <!-- Secondary usage -->
-		 <item>viruswar</item>
-		 <item>yaauto</item>
 		 <item>foldergoogle</item>
-		 <item>bitcoin</item>
-		 <item>podverse</item>
 		 <item>spynetcamera</item>
-		 <item>styxbrowser</item>
-		 <item>owncloud</item>
 		 <item>folderhome</item>
 		 <item>downloads</item>
-		 <item>speedmeter</item>
-		 <item>locationprivacy</item>
-		 <item>forkclient</item>
-		 <item>shadowsocks</item>
-		 <item>dinomail</item>
-		 <item>mapsgo</item>
 		 <item>mapassist</item>
-		 <item>transport</item>
-		 <item>finder</item>
 		 <item>notificationnotes</item>
-		 <item>libreofficeviewer</item>
-		 <item>radio</item>
 		 <item>radiofm</item>
-		 <item>simpleaccounting</item>
 		 <item>sudokuopen</item>
-		 <item>brevent</item>
-		 <item>colordict</item>
 
 		 <!-- Mine -->
 		 <item>andropenoffice</item>
@@ -160,8 +139,10 @@
 		 <item>getaround</item>
 		 <item>justeat</item>
 		 <item>klassly</item>
-		 <item>livi</item>
+		 <item>lapostemobile</item>
 		 <item>larousse</item>
+		 <item>leclerc</item>
+		 <item>livi</item>
 		 <item>mappy</item>
 		 <item>monpetitprono</item>
 		 <item>motionsource</item>
@@ -169,6 +150,7 @@
 		 <item>myphone</item>
 		 <item>officesuite</item>
 		 <item>paybyphone</item>
+		 <item>poleemploi</item>
 		 <item>qwant</item>
 		 <item>redsfr</item>
 		 <item>rlsideswipe</item>
