@@ -82,6 +82,7 @@
 	<item drawable="ouisncf" />
 	<item drawable="pdfviewerplus" />
 	<item drawable="petitbambou" />
+	<item drawable="plex" />
 	<item drawable="phone" />
 	<item drawable="podcastaddict" />
 	<item drawable="qr" />
@@ -133,6 +134,8 @@
 	<item drawable="dsget" />
 	<item drawable="dsfile" />
 	<item drawable="dsvideo" />
+	<item drawable="feeder" />
+	<item drawable="firewidgets" />
 	<item drawable="freelancer" />
 	<item drawable="getaround" />
 	<item drawable="gpxviewerpro" />
@@ -151,6 +154,8 @@
 	<item drawable="officesuite" />
 	<item drawable="paybyphone" />
 	<item drawable="poleemploi" />
+	<item drawable="quadrillamarble" />
+	<item drawable="qksms" />
 	<item drawable="qwant" />
 	<item drawable="redsfr" />
 	<item drawable="rlsideswipe" />

@@ -31,6 +31,7 @@
 
     <!-- Coffee -->
     <item component="ComponentInfo{com.github.muellerma.coffee/com.github.muellerma.coffee.MainActivity}" drawable="coffee" />
+    <item component="ComponentInfo{com.github.muellerma.coffee/com.github.muellerma.coffee.activities.MainActivity}" drawable="coffee"/>
 
     <!-- Collabora Office -->
     <item component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" drawable="collaboraoffice" />
@@ -174,6 +175,9 @@
     <item component="ComponentInfo{com.petitbambou/com.petitbambou.frontend.launcher.ActivityLauncherCustomizable}" drawable="petitbambou"/>
     <item component="ComponentInfo{com.petitbambou/com.petitbambou.frontendnav.ActivityHomeSpace}" drawable="petitbambou"/>
 
+    <!-- Plex -->
+    <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex"/>
+
     <!-- Phone -->
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone"/>
 
@@ -309,6 +313,12 @@
     <!-- DS video -->
     <item component="ComponentInfo{com.synology.dsvideo/com.synology.dsvideo.SplashActivity}" drawable="dsvideo"/>
 
+    <!-- 🔥 Widgets -->
+    <item component="ComponentInfo{com.widgets.music/com.widgets.music.ui.permission.PermissionActivity}" drawable="firewidgets"/>
+
+    <!-- Feeder -->
+    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder"/>
+
     <!-- Freelancer -->
     <item component="ComponentInfo{com.freelancer.android.messenger/com.freelancer.main.MainActivity}" drawable="freelancer"/>
 
@@ -359,6 +369,12 @@
 
     <!-- Pole Emploi Mon Espace -->
     <item component="ComponentInfo{com.poleemploi.poleemploietmoi/poleemploi.poleemploietmoi.droid.activities.SplashActivity}" drawable="poleemploi"/>
+
+    <!-- QKSMS -->
+    <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="qksms"/>
+
+    <!-- Quadrilla -->
+    <item component="ComponentInfo{com.hape.app/crc645df4334c4b8d472a.SplashScreen}" drawable="quadrillamarble"/>
 
     <!-- Qwant -->
     <item component="ComponentInfo{com.qwant.liberty/org.mozilla.reference.browser.BrowserActivity}" drawable="qwant"/>
