@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<version>1</version>
+	<item drawable="_2048" />
 	<item drawable="antennapod" />
 	<item drawable="arcticons" />
 	<item drawable="arcticonsdark" />
 	<item drawable="arcticonslight" />
+	<item drawable="blablacar" />
 	<item drawable="calculator" />
 	<item drawable="calendar1" />
 	<item drawable="calendar2" />
@@ -42,12 +44,14 @@
 	<item drawable="coffee" />
 	<item drawable="collaboraoffice" />
 	<item drawable="contacts" />
+	<item drawable="easyjet" />
 	<item drawable="evernote" />
 	<item drawable="fdroid" />
 	<item drawable="files" />
 	<item drawable="firefox" />
 	<item drawable="freebox1337" />
 	<item drawable="freebox_box" />
+	<item drawable="google" />
 	<item drawable="googleauthenticator" />
 	<item drawable="googlechrome" />
 	<item drawable="googledrive" />
@@ -72,8 +76,11 @@
 	<item drawable="messaging" />
 	<item drawable="messenger" />
 	<item drawable="meteofrance" />
+	<item drawable="microsoft365" />
+	<item drawable="microsoftauthenticator" />
 	<item drawable="microsoftoutlook" />
 	<item drawable="microsoftteams" />
+	<item drawable="microsoftonedrive" />
 	<item drawable="netflix" />
 	<item drawable="netguard" />
 	<item drawable="newpipe" />
@@ -82,9 +89,11 @@
 	<item drawable="ouisncf" />
 	<item drawable="pdfviewerplus" />
 	<item drawable="petitbambou" />
+	<item drawable="plantnet" />
 	<item drawable="plex" />
 	<item drawable="phone" />
 	<item drawable="podcastaddict" />
+	<item drawable="puzzles" />
 	<item drawable="qr" />
 	<item drawable="radiofrance" />
 	<item drawable="recorder" />
@@ -93,6 +102,8 @@
 	<item drawable="signal" />
 	<item drawable="simplegallery" />
 	<item drawable="skype" />
+	<item drawable="skymap" />
+	<item drawable="solitairecg" />
 	<item drawable="sncf" />
 	<item drawable="steam" />
 	<item drawable="telegram" />
@@ -108,6 +119,7 @@
 	<item drawable="wikipedia" />
 	<item drawable="xeonjia" />
 	<item drawable="youtube" />
+	<item drawable="yuka" />
 	<item drawable="zoom" />
 
 	<!-- Secondary usage -->
@@ -119,13 +131,18 @@
 	<item drawable="notificationnotes" />
 	<item drawable="radiofm" />
 	<item drawable="sudokuopen" />
+	<item drawable="weathercan" />
 
 	<!-- Mine -->
+	<item drawable="asusfilemgr" />
+	<item drawable="asusgallery" />
 	<item drawable="andropenoffice" />
 	<item drawable="augmented7wonders" />
 	<item drawable="bourso" />
+	<item drawable="camsam" />
 	<item drawable="chess" />
 	<item drawable="cirkwi" />
+	<item drawable="chatgpt" />
 	<item drawable="chessbegtoclub" />
 	<item drawable="decathlon" />
 	<item drawable="digiclockplus" />
@@ -138,20 +155,28 @@
 	<item drawable="firewidgets" />
 	<item drawable="freelancer" />
 	<item drawable="getaround" />
+	<item drawable="googlewallet" />
 	<item drawable="gpxviewerpro" />
 	<item drawable="hop" />
+	<item drawable="imagepipe" />
 	<item drawable="justeat" />
 	<item drawable="klassly" />
+	<item drawable="koby" />
 	<item drawable="larousse" />
 	<item drawable="lapostemobile" />
+	<item drawable="leafpic" />
 	<item drawable="leclerc" />
+	<item drawable="libretube" />
 	<item drawable="livi" />
 	<item drawable="mappy" />
 	<item drawable="monpetitprono" />
 	<item drawable="motionsource" />
+	<item drawable="mupdf" />
 	<item drawable="mymaps" />
 	<item drawable="myphone" />
+	<item drawable="nobuy" />
 	<item drawable="officesuite" />
+	<item drawable="openboard" />
 	<item drawable="paybyphone" />
 	<item drawable="poleemploi" />
 	<item drawable="quadrillamarble" />
